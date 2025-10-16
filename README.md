@@ -7,3 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JagdeepSingh13&hide=css,html&langs_count=4&layout=donut&theme=radical)
 
 ![Snake animation](https://github.com/JagdeepSingh13/JagdeepSingh13/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Light](https://raw.githubusercontent.com/JagdeepSingh13/JagdeepSingh13/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/JagdeepSingh13/JagdeepSingh13/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
