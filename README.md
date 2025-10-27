@@ -10,3 +10,4 @@
 
 ### 🐍 Watch my contributions get eaten by a snake!
 ![GitHub Snake Dark](https://raw.githubusercontent.com/JagdeepSingh13/JagdeepSingh13/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
